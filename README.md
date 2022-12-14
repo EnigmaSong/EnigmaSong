@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on statistical network analysis. 
+- 🌱 I’m currently learning how to use GitHub. I hope to learn PyTorch for deep learning projects.
+
 <!--
 **EnigmaSong/EnigmaSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
