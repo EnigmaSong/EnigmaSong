@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![EnigmaSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnigmaSong&count_private=true?show_icons=true)](https://github.com/EnigmaSong/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnigmaSong&layout=compact)](https://github.com/EnigmaSong/github-readme-stats)
 -->
